@@ -4,11 +4,15 @@ This project involves developing a machine learning model to predict the quality
 
 # Technologies Used
 Technologies Used
->🐍 Python: Programming language for data manipulation and modeling.
->📊 pandas: Data handling and preprocessing.
->🔢 NumPy: Numerical operations.
->🤖 scikit-learn: Machine learning and evaluation.
->📈 Matplotlib/Seaborn: Data visualization and model evaluation.
+---🐍 Python: Programming language for data manipulation and modeling.
+
+---📊 pandas: Data handling and preprocessing.
+
+---🔢 NumPy: Numerical operations.
+
+---🤖 scikit-learn: Machine learning and evaluation.
+
+---📈 Matplotlib/Seaborn: Data visualization and model evaluation.
 
 
 # Results
